@@ -1,0 +1,1 @@
+"""Competition attack implementation package."""

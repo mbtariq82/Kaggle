@@ -4,5 +4,6 @@ __pycache__/
 data/
 models/
 outputs/
+kaggle_kernel/
 .env
 notebooks/*.ipynb
